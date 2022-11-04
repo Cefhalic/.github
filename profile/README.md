@@ -1,1 +1,3 @@
-## Cefhalic: Centre of Excellence for High-throughput Digital Electronics and Embedded Machine Learning @ Imperial College
+## Cefhalic: Centre for High-throughput Digital Electronics and Embedded Machine Learning @ Imperial College
+
+![Cefhalic](../images/Cephalic2.png)
